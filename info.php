@@ -1,8 +1,9 @@
 <?php
 
 	$name = "Erick Vladimir";
+	$lastname = "Gonzalez Ortiz";
 
-	echo $name;
+	echo $name + " " + $lastname;
 
 	phpinfo();
 	

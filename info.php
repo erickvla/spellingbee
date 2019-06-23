@@ -3,7 +3,11 @@
 	$name = "Erick Vladimir";
 	$lastname = "Gonzalez Ortiz";
 
-    $wife = "Sian Andey";
+  $child1 = "Emilio";
+  $child2 = "Diego";
+  $child3 = "Santiago";
+  $child4 = "Mauricio";    
+  $wife = "Sian Andey";
 
 	echo $name . " " . $lastname;
 

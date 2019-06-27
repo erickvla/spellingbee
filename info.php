@@ -10,7 +10,7 @@
   $wife = "Sian Andey";
 
   echo $name . " " . $lastname;
-  echo $child1 . " " . $child2 . " " . $child3 . " " . $child4 . " " . $wife;
+  erickvlecho $child1 . " " . $child2 . " " . $child3 . " " . $child4 . " " . $wife;
 
 	phpinfo();
 	
